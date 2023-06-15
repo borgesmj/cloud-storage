@@ -1,1 +1,1 @@
-export let tasaDeCambio = 16459999
+export let tasaDeCambio = 12345
