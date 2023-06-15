@@ -1,1 +1,1 @@
-export const tasaDeCambio = 1645
+export let tasaDeCambio = 1645
