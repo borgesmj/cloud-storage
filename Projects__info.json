@@ -1,0 +1,9 @@
+[
+  {
+    "Imagen": "https://user-images.githubusercontent.com/121818423/265790879-3fddb541-e8d3-4455-ae97-9e3daec8e0e5.jpg",
+    "Parrafo": [
+      "Este fué mi primer proyecto realizado con ReactJs y utilizando por primera vez TaildindCSS.",
+      "Este proyecto contiene un formulario para agregar tareas nuevas a la lista, contiene dos listas, una de tareas pendientes y una de tareas realizadas, las tareas se pueden eliminar o editar mientras estan pendiente"
+    ]
+  }
+]
