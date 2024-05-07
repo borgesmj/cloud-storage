@@ -101,3 +101,6 @@ El diseño lo encuentra en el siguiente [link](https://www.figma.com/proto/DIx4u
 2. Configuramos nuestro proyecto a![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) y le damos un nombre.
 3. Instalamos dependencias `npm install`
 4. Y ejecutamos el proyecto `npm run dev`
+
+![image](https://github.com/borgesmj/cloud-storage/assets/121818423/69c9f40c-fc1f-4c8a-a449-4a6c0eb7f04c)
+
