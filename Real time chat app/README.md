@@ -7,24 +7,27 @@ Esto es uno de los tres proyectos propuestos a  realizar en Mayo-2024
 
 ### 1. Diseños de guía  
 
-Buscando diseños UI en la web, encontré estos dos que me gustaron como guía.![](https://assets.materialup.com/uploads/ddee5e43-4aea-4c63-abf4-b08f7233d98c/preview.png)
+Buscando diseños UI en la web, encontré estos dos que me gustaron como guía.
 
+![preview](https://github.com/borgesmj/cloud-storage/assets/121818423/78b6be16-df2c-47a7-a796-389a20421eac)
 
-![Fuente: https://assets.materialup.com/](https://assets.materialup.com/uploads/17232f9e-82f4-479b-a606-962876ce2751/preview.jpg)  
+![preview](https://github.com/borgesmj/cloud-storage/assets/121818423/ec8eb05e-e2db-41c4-b89a-4d64cf275bb4)
+
+ 
   
 
 ### 2. Selección de colores
 #### Ligth Theme:
-![#6AB7FF](https://placehold.co/15x15/6AB7FF/6AB7FF.png) `--primary-100: #6AB7FF`
-![#479ae0](https://placehold.co/15x15/479ae0/479ae0.png) `--primary-200: #479ae0`
-![#005b9a](https://placehold.co/15x15/005b9a/005b9a.png) `--primary-300: #005b9a`
-![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) `--accent-100: #FFD700`
-![#917800](https://placehold.co/15x15/917800/917800.png) `--accent-200: #917800`
-![#333333](https://placehold.co/15x15/333333/333333.png) `--text-100: #333333`
-![#5c5c5c](https://placehold.co/15x15/5c5c5c/5c5c5c.png) `--text-200: #5c5c5c`
-![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `--bg-100: #FFFFFF`
-![#f5f5f5](https://placehold.co/15x15/f5f5f5/f5f5f5.png) `--bg-200: #f5f5f5`
-![#cccccc](https://placehold.co/15x15/cccccc/cccccc.png) `--bg-300: #cccccc`
+* ![#6AB7FF](https://placehold.co/15x15/6AB7FF/6AB7FF.png) `--primary-100: #6AB7FF`
+* ![#479ae0](https://placehold.co/15x15/479ae0/479ae0.png) `--primary-200: #479ae0`
+* ![#005b9a](https://placehold.co/15x15/005b9a/005b9a.png) `--primary-300: #005b9a`
+* ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) `--accent-100: #FFD700`
+* ![#917800](https://placehold.co/15x15/917800/917800.png) `--accent-200: #917800`
+* ![#333333](https://placehold.co/15x15/333333/333333.png) `--text-100: #333333`
+* ![#5c5c5c](https://placehold.co/15x15/5c5c5c/5c5c5c.png) `--text-200: #5c5c5c`
+* ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `--bg-100: #FFFFFF`
+* ![#f5f5f5](https://placehold.co/15x15/f5f5f5/f5f5f5.png) `--bg-200: #f5f5f5`
+* ![#cccccc](https://placehold.co/15x15/cccccc/cccccc.png) `--bg-300: #cccccc`
 
 
 ```CSS
@@ -42,16 +45,16 @@ Buscando diseños UI en la web, encontré estos dos que me gustaron como guía.!
 
 #### Dark theme:
 
-![#64FFDA](https://placehold.co/15x15/64FFDA/64FFDA.png) `--primary-100: #64FFDA`
-![#3ce0bc](https://placehold.co/15x15/3ce0bc/3ce0bc.png) `--primary-200: #3ce0bc`
-![#00997a](https://placehold.co/15x15/00997a/00997a.png) `--primary-300: #00997a`
-![#1E88E5](https://placehold.co/15x15/1E88E5/1E88E5.png) `--accent-100: #1E88E5`
-![#dbffff](https://placehold.co/15x15/dbffff/dbffff.png) `--accent-200: #dbffff`
-![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `--text-100: #FFFFFF`
-![#e0e0e0](https://placehold.co/15x15/e0e0e0/e0e0e0.png) `--text-200: #e0e0e0`
-![#0A192F](https://placehold.co/15x15/0A192F/0A192F.png) `--bg-100: #0A192F`
-![#1b283f](https://placehold.co/15x15/1b283f/1b283f.png) `--bg-200: #1b283f`
-![#333f58](https://placehold.co/15x15/333f58/333f58.png) `--bg-300: #333f58`
+* ![#64FFDA](https://placehold.co/15x15/64FFDA/64FFDA.png) `--primary-100: #64FFDA`
+* ![#3ce0bc](https://placehold.co/15x15/3ce0bc/3ce0bc.png) `--primary-200: #3ce0bc`
+* ![#00997a](https://placehold.co/15x15/00997a/00997a.png) `--primary-300: #00997a`
+* ![#1E88E5](https://placehold.co/15x15/1E88E5/1E88E5.png) `--accent-100: #1E88E5`
+* ![#dbffff](https://placehold.co/15x15/dbffff/dbffff.png) `--accent-200: #dbffff`
+* ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `--text-100: #FFFFFF`
+* ![#e0e0e0](https://placehold.co/15x15/e0e0e0/e0e0e0.png) `--text-200: #e0e0e0`
+* ![#0A192F](https://placehold.co/15x15/0A192F/0A192F.png) `--bg-100: #0A192F`
+* ![#1b283f](https://placehold.co/15x15/1b283f/1b283f.png) `--bg-200: #1b283f`
+* ![#333f58](https://placehold.co/15x15/333f58/333f58.png) `--bg-300: #333f58`
 
 ```CSS
     --primary-100:#64FFDA;
