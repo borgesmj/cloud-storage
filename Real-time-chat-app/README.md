@@ -87,17 +87,18 @@ Funciones incluidas
 5. Personalización de perfiles:
 
 ### 4. Objetivos del proyecto
-- [ ]Crear la estructura de carpetas del proyecto: Organiza el código fuente en una estructura de carpetas clara y coherente, separando componentes, estilos, imágenes y otras assets.
+- [ ] Crear la estructura de carpetas del proyecto: Organiza el código fuente en una estructura de carpetas clara y coherente, separando componentes, estilos, imágenes y otras assets.
 
-- [ ]Configurar la integración con Firebase: Establece la conexión con Firebase en el frontend para poder interactuar con la base de datos en tiempo real y autenticación de usuarios.
+- [ ] Configurar la integración con Firebase: Establece la conexión con Firebase en el frontend para poder interactuar con la base de datos en tiempo real y autenticación de usuarios.
 
-- [ ]Diseñar el esquema de la base de datos: Define la estructura de la base de datos en Firebase, incluyendo colecciones para usuarios, mensajes y cualquier otra información relevante para la aplicación.
+- [ ] Diseñar el esquema de la base de datos: Define la estructura de la base de datos en Firebase, incluyendo colecciones para usuarios, mensajes y cualquier otra información relevante para la aplicación.
 
-- [ ]Crear los componentes de UI básicos: Desarrolla los componentes de UI necesarios para las páginas de inicio de sesión, registro y la página principal de la aplicación.
+- [ ] Crear los componentes de UI básicos: Desarrolla los componentes de UI necesarios para las páginas de inicio de sesión, registro y la página principal de la aplicación.
 
-- [ ]Implementar la funcionalidad de inicio de sesión y registro: Desarrolla las funciones necesarias para permitir que los usuarios inicien sesión y se registren en la aplicación, utilizando Firebase para manejar la autenticación.
+- [ ] Implementar la funcionalidad de inicio de sesión y registro: Desarrolla las funciones necesarias para permitir que los usuarios inicien sesión y se registren en la aplicación, utilizando Firebase para manejar la autenticación.
 
-- [ ]Mostrar la lista de chats activos en la página principal: Despliega la lista de chats activos en la página principal de la aplicación, obteniendo los datos de Firebase y mostrándolos en la interfaz de usuario.
+- [ ] Mostrar la lista de chats activos en la página principal: Despliega la lista de chats activos en la página principal de la aplicación, obteniendo los datos de Firebase y mostrándolos en la interfaz de usuario.
+
 
 ### 4. Stack a  utilizar:
 #### FrontEnd: 
